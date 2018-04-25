@@ -59,3 +59,10 @@ For example:
 bundle update fastlane
 ```
 
+Update Dockerfile
+---
+
+We inherits the Docker image from [CircleCI](https://hub.docker.com/r/circleci/android/tags/) and currently we are using `api-27-alpha` one.
+
+See [Dockerfile](./Dockerfile)
+
